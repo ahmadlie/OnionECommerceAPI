@@ -2003,6 +2003,19 @@
         "runtime": {
           "bin/placeholder/ECommerce.Domain.dll": {}
         }
+      },
+      "ECommerceApi.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ECommerce.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ECommerceApi.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerceApi.Application.dll": {}
+        }
       }
     }
   },
@@ -5063,11 +5076,17 @@
       "type": "project",
       "path": "../../Core/ECommerce.Domain/ECommerce.Domain.csproj",
       "msbuildProject": "../../Core/ECommerce.Domain/ECommerce.Domain.csproj"
+    },
+    "ECommerceApi.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/ECommerceApi.Application/ECommerceApi.Application.csproj",
+      "msbuildProject": "../../Core/ECommerceApi.Application/ECommerceApi.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "ECommerce.Domain >= 1.0.0",
+      "ECommerceApi.Application >= 1.0.0",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.5",
       "Microsoft.EntityFrameworkCore >= 8.0.5",
@@ -5104,6 +5123,9 @@
           "projectReferences": {
             "C:\\Development\\ECommerceApi\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj": {
               "projectPath": "C:\\Development\\ECommerceApi\\Core\\ECommerce.Domain\\ECommerce.Domain.csproj"
+            },
+            "C:\\Development\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj": {
+              "projectPath": "C:\\Development\\ECommerceApi\\Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj"
             }
           }
         }

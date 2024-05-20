@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Development\\ECommerceApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C770DB4-BB9F-4075-B802-4659C1ADF2BC}|Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj|c:\\development\\ecommerceapi\\core\\ecommerceapi.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C770DB4-BB9F-4075-B802-4659C1ADF2BC}|Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj|solutionrelative:core\\ecommerceapi.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{076D3486-ADDA-420D-B42B-D75D32FB1852}|Infrastructure\\ECommerApi.Persistence\\ECommerApi.Persistence.csproj|c:\\development\\ecommerceapi\\infrastructure\\ecommerapi.persistence\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076D3486-ADDA-420D-B42B-D75D32FB1852}|Infrastructure\\ECommerApi.Persistence\\ECommerApi.Persistence.csproj|solutionrelative:infrastructure\\ecommerapi.persistence\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C770DB4-BB9F-4075-B802-4659C1ADF2BC}|Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj|c:\\development\\ecommerceapi\\core\\ecommerceapi.application\\interfaces\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{076D3486-ADDA-420D-B42B-D75D32FB1852}|Infrastructure\\ECommerApi.Persistence\\ECommerApi.Persistence.csproj|c:\\development\\ecommerceapi\\infrastructure\\ecommerapi.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076D3486-ADDA-420D-B42B-D75D32FB1852}|Infrastructure\\ECommerApi.Persistence\\ECommerApi.Persistence.csproj|solutionrelative:infrastructure\\ecommerapi.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C770DB4-BB9F-4075-B802-4659C1ADF2BC}|Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj|c:\\development\\ecommerceapi\\core\\ecommerceapi.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C770DB4-BB9F-4075-B802-4659C1ADF2BC}|Core\\ECommerceApi.Application\\ECommerceApi.Application.csproj|solutionrelative:core\\ecommerceapi.application\\interfaces\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 309,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Development\\ECommerceApi\\Infrastructure\\ECommerApi.Persistence\\Registration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ECommerApi.Persistence\\Registration.cs",
+              "ToolTip": "C:\\Development\\ECommerceApi\\Infrastructure\\ECommerApi.Persistence\\Registration.cs",
+              "RelativeToolTip": "Infrastructure\\ECommerApi.Persistence\\Registration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:04:07.32Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,19 +53,20 @@
               "RelativeDocumentMoniker": "Core\\ECommerceApi.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
               "ToolTip": "C:\\Development\\ECommerceApi\\Core\\ECommerceApi.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
               "RelativeToolTip": "Core\\ECommerceApi.Application\\Interfaces\\Repositories\\IWriteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:04:38.753Z"
+              "WhenOpened": "2024-05-20T14:04:38.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "IReadRepository.cs",
               "DocumentMoniker": "C:\\Development\\ECommerceApi\\Core\\ECommerceApi.Application\\Interfaces\\Repositories\\IReadRepository.cs",
               "RelativeDocumentMoniker": "Core\\ECommerceApi.Application\\Interfaces\\Repositories\\IReadRepository.cs",
               "ToolTip": "C:\\Development\\ECommerceApi\\Core\\ECommerceApi.Application\\Interfaces\\Repositories\\IReadRepository.cs",
               "RelativeToolTip": "Core\\ECommerceApi.Application\\Interfaces\\Repositories\\IReadRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T14:04:06.538Z",
               "EditorCaption": ""
@@ -61,9 +79,10 @@
               "RelativeDocumentMoniker": "Infrastructure\\ECommerApi.Persistence\\Repositories\\WriteRepository.cs",
               "ToolTip": "C:\\Development\\ECommerceApi\\Infrastructure\\ECommerApi.Persistence\\Repositories\\WriteRepository.cs",
               "RelativeToolTip": "Infrastructure\\ECommerApi.Persistence\\Repositories\\WriteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:03:25.802Z"
+              "WhenOpened": "2024-05-20T14:03:25.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +92,10 @@
               "RelativeDocumentMoniker": "Infrastructure\\ECommerApi.Persistence\\Repositories\\ReadRepository.cs",
               "ToolTip": "C:\\Development\\ECommerceApi\\Infrastructure\\ECommerApi.Persistence\\Repositories\\ReadRepository.cs",
               "RelativeToolTip": "Infrastructure\\ECommerApi.Persistence\\Repositories\\ReadRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:03:04.979Z"
+              "WhenOpened": "2024-05-20T14:03:04.979Z",
+              "EditorCaption": ""
             }
           ]
         }

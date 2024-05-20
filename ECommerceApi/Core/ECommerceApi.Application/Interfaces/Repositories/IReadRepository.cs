@@ -4,6 +4,7 @@ using System.Linq.Expressions;
 namespace ECommerceApi.Application.Interfaces.Repositories;
 public interface IReadRepository<TEntity> where TEntity : class, IBaseEntity, new()
 {
-    Task<IList<TEntity>> GetAllAsync(Expression<Func<TEntity, bool>> expression = null);
-    Task<TEntity> GetByIdAsync(int id);
+    Task<IList<TEntity>> GetAllAsync(Expression<Func<TEntity, bool>>? expression = null, bool enableTracking = true);
+    Task<IList<TEntity>> GetAllByPageAsync(int currrentPage = 1, int pageSize = 3, Expression<Func<TEntity, bool>>? expression = null, bool enableTracking = true);
+    Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> expression, bool enableTracking = false);
 }

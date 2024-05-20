@@ -1,5 +1,7 @@
 ﻿using ECommerApi.Persistence.Context;
+using ECommerApi.Persistence.Repositories;
 using ECommerce.Domain.Entities.Identity;
+using ECommerceApi.Application.Interfaces.Repositories;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -23,6 +25,7 @@ public static class Registration
          .AddSignInManager<SignInManager<AppUser>>()
          .AddDefaultTokenProviders();
 
-
+        services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));
+        services.AddScoped(typeof(IWriteRepository<>), typeof(WriteRepository<>));
     }
 }
