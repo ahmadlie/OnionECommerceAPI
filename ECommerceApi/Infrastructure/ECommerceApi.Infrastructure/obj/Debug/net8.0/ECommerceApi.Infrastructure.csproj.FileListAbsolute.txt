@@ -1,0 +1,12 @@
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\bin\Debug\net8.0\ECommerceApi.Infrastructure.deps.json
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\bin\Debug\net8.0\ECommerceApi.Infrastructure.dll
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\bin\Debug\net8.0\ECommerceApi.Infrastructure.pdb
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\ECommerceApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\ECommerceApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\ECommerceApi.Infrastructure.AssemblyInfo.cs
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\ECommerceApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\ECommerceApi.Infrastructure.sourcelink.json
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\ECommerceApi.Infrastructure.dll
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\refint\ECommerceApi.Infrastructure.dll
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\ECommerceApi.Infrastructure.pdb
+C:\Development\ECommerceApi\Infrastructure\ECommerceApi.Infrastructure\obj\Debug\net8.0\ref\ECommerceApi.Infrastructure.dll

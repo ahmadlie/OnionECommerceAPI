@@ -1,0 +1,12 @@
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\bin\Debug\net8.0\ECommerceApi.Application.deps.json
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\bin\Debug\net8.0\ECommerceApi.Application.dll
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\bin\Debug\net8.0\ECommerceApi.Application.pdb
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.AssemblyInfoInputs.cache
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.AssemblyInfo.cs
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.csproj.CoreCompileInputs.cache
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.sourcelink.json
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.dll
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\refint\ECommerceApi.Application.dll
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.pdb
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ref\ECommerceApi.Application.dll
