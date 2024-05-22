@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "PPvCCOWifnrZr5WHjwG2+iofKOMkXdjTbyzNHRoidCL9sOyG1BUcVlBgwhHjia/tHgv3Mw3CDK7+1YF9Egh0Gg==",
+  "dgSpecHash": "uA4YfzRdn6EZwTK0x83o54tK9ga/SKefsz691CEXxhnN8LjMgxiyL+caSEfeThOjH9VMr3c0ZD4fVp/kCRpgIg==",
   "success": true,
   "projectFilePath": "C:\\Development\\ECommerceApi\\Presentation\\ECommerceApi.Presentation\\ECommerceApi.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",

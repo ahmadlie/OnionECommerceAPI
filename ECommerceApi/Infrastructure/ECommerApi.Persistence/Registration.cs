@@ -1,7 +1,9 @@
 ﻿using ECommerApi.Persistence.Context;
 using ECommerApi.Persistence.Repositories;
+using ECommerApi.Persistence.UnitOfWorks;
 using ECommerce.Domain.Entities.Identity;
 using ECommerceApi.Application.Interfaces.Repositories;
+using ECommerceApi.Application.Interfaces.UnitOfWorks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -27,5 +29,6 @@ public static class Registration
 
         services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));
         services.AddScoped(typeof(IWriteRepository<>), typeof(WriteRepository<>));
+        services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
     }
 }
