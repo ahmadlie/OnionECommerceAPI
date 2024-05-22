@@ -10,3 +10,7 @@ C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\EComm
 C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\refint\ECommerceApi.Application.dll
 C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.pdb
 C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ref\ECommerceApi.Application.dll
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\bin\Debug\net8.0\ECommerce.Domain.dll
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\bin\Debug\net8.0\ECommerce.Domain.pdb
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerceApi.Application.csproj.AssemblyReference.cache
+C:\Development\ECommerceApi\Core\ECommerceApi.Application\obj\Debug\net8.0\ECommerc.BFAC6637.Up2Date

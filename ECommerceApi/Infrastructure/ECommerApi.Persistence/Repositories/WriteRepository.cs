@@ -15,7 +15,7 @@ public class WriteRepository<TEntity> : IWriteRepository<TEntity> where TEntity 
     }
     public async Task AddAsync(TEntity entity)
     {
-        await _entity.AddAsync(entity);
+        await _entity.AddAsync(entity);    
     }
 
     public async Task AddRangeAsync(IList<TEntity> entities)

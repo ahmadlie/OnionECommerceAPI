@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mlyReZdfzfFeRT5K/pE9YJ3CSiWqya3hao2PLzK+/NBcQ3c2o2l+BL4t3yy6DryXiW8H4Mp7rASOqkJN09DY1A==",
+  "dgSpecHash": "rYaxoyLn7U3+U5YUo77c7rwp4GEoz2072M2RdsRhyAIEGwRCaD8j5MtKZydb3vvUa8bvbCDf+nZdTebiew1qZg==",
   "success": true,
   "projectFilePath": "C:\\Development\\ECommerceApi\\Infrastructure\\ECommerApi.Persistence\\ECommerApi.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

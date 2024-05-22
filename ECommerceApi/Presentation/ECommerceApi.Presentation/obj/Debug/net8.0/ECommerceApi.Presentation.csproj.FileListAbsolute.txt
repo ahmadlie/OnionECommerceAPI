@@ -145,3 +145,10 @@ C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\obj\Debug\net
 C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\obj\Debug\net8.0\ECommerceApi.Presentation.pdb
 C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\obj\Debug\net8.0\ECommerceApi.Presentation.genruntimeconfig.cache
 C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\obj\Debug\net8.0\ref\ECommerceApi.Presentation.dll
+C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\bin\Debug\net8.0\AutoMapper.dll
+C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\bin\Debug\net8.0\MediatR.dll
+C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\bin\Debug\net8.0\ECommerceApi.Application.dll
+C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\bin\Debug\net8.0\ECommerceApi.AutoMapper.dll
+C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\bin\Debug\net8.0\ECommerceApi.AutoMapper.pdb
+C:\Development\ECommerceApi\Presentation\ECommerceApi.Presentation\bin\Debug\net8.0\ECommerceApi.Application.pdb

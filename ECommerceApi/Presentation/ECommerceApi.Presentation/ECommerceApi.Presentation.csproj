@@ -15,6 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Core\ECommerceApi.AutoMapper\ECommerceApi.AutoMapper.csproj" />
     <ProjectReference Include="..\..\Infrastructure\ECommerApi.Persistence\ECommerApi.Persistence.csproj" />
   </ItemGroup>
 

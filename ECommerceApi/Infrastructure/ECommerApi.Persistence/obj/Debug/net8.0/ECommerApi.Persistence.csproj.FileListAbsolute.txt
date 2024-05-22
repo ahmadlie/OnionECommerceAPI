@@ -16,3 +16,5 @@ C:\Development\ECommerceApi\Infrastructure\ECommerApi.Persistence\obj\Debug\net8
 C:\Development\ECommerceApi\Infrastructure\ECommerApi.Persistence\obj\Debug\net8.0\ECommerApi.Persistence.pdb
 C:\Development\ECommerceApi\Infrastructure\ECommerApi.Persistence\obj\Debug\net8.0\ECommerApi.Persistence.genruntimeconfig.cache
 C:\Development\ECommerceApi\Infrastructure\ECommerApi.Persistence\obj\Debug\net8.0\ref\ECommerApi.Persistence.dll
+C:\Development\ECommerceApi\Infrastructure\ECommerApi.Persistence\bin\Debug\net8.0\ECommerceApi.Application.dll
+C:\Development\ECommerceApi\Infrastructure\ECommerApi.Persistence\bin\Debug\net8.0\ECommerceApi.Application.pdb
